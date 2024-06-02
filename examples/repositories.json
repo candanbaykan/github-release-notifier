@@ -1,0 +1,16 @@
+[
+    {
+        "owner": "candanbaykan",
+        "repository": "github-release-notifier",
+        "excludePrerelease": true,
+        "blacklist": ["alpha", "beta"],
+        "lastPublish": "1970-01-01T00:00:00Z"
+    },
+    {
+        "owner": "candanbaykan",
+        "repository": "nightwatch",
+        "excludePrerelease": true,
+        "blacklist": ["nightly"],
+        "lastPublish": "1970-01-01T00:00:00Z"
+    }
+]
